@@ -1,6 +1,6 @@
 {
   "name": "ztjy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "商化前端脚手架",
   "main": "index.js",
   "scripts": {
@@ -19,13 +19,12 @@
   "dependencies": {
     "commander": "^8.1.0",
     "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.0",
     "handlebars": "^4.7.7",
     "inquirer": "^8.1.2",
     "ora": "^4.0.3"
   },
-  "devDependencies": {
-    "fs-extra": "^10.0.0"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/qq449245884/ztjy-cli"
