@@ -17,7 +17,7 @@
 ### 安装
 
 ```
-npm i ztjy-cli
+npm install --global ztjy-cli
 ```
 
 ### 命令使用
