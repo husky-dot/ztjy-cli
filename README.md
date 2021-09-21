@@ -17,7 +17,7 @@
 ### 安装
 
 ```
-npm install --global @ztjy-cli
+npm i ztjy-cli
 ```
 
 ### 命令使用
@@ -85,3 +85,22 @@ ztjy del 模板名称
 ```
 
 ![](http://www.longstudy.club/100/ztjy07.png)
+
+### 三方库介绍
+
+```javascript
+<!-- 终端样式库 -->
+"chalk": "^3.0.0",
+<!-- 命令行交互 -->
+"commander": "^5.0.0",
+<!-- 从git拉模板 -->
+"download-git-repo": "^3.0.2",
+<!-- fs操作拓展 -->
+"fs-extra": "^9.0.0",
+<!-- 模板引擎 -->
+"handlebars": "^4.7.3",
+<!-- 命令行交互 -->
+"inquirer": "^7.1.0",
+<!-- 加载效果，图标 -->
+"ora": "^4.0.3"
+```
