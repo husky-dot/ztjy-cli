@@ -1,6 +1,6 @@
 {
   "name": "ztjy-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "商化前端脚手架",
   "main": "index.js",
   "scripts": {
