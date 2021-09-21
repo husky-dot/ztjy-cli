@@ -1,13 +1,17 @@
 {
   "name": "@ztjy-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "商化前端脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "小智",
+    "email": "449245884@qq.com",
+    "url": "https://github.com/qq449245884"
+  },
   "license": "ISC",
   "bin": {
     "ztjy": "./src/index.js"
@@ -21,5 +25,12 @@
   },
   "devDependencies": {
     "fs-extra": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qq449245884/ztjy-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/qq449245884/ztjy-cli/issues"
   }
 }
