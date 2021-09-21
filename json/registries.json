@@ -1,0 +1,18 @@
+{
+  "antd-vue-template": {
+    "name": "B 端系统开发模板",
+    "downUrl": "direct:http://gitlab.szy.net/fed/antd-vue-template.git#feature/1.x"
+  },
+  "antd-vue-admin-template": {
+    "name": "运营后台管理系统开发模板",
+    "downUrl": "direct:http://gitlab.szy.net/fed/antd-vue-admin-template.git#feature/1.x"
+  },
+  "github-antd-vue-template": {
+    "name": "B 端系统开发模板",
+    "downUrl": "direct:https://github.com/qq449245884/github-antd-vue-template.git#main"
+  },
+  "github-antd-vue-admin-template": {
+    "name": "运营后台管理系统开发模板",
+    "downUrl": "direct:https://github.com/qq449245884/github-antd-vue-admin-template.git#main"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ztjy-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "ztjy": "./src/index.js"
+  },
+  "dependencies": {
+    "commander": "^8.1.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.1.2",
+    "ora": "^4.0.3"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
