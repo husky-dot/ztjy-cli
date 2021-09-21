@@ -1,5 +1,5 @@
 {
-  "name": "@ztjy-cli",
+  "name": "@ztjy/cli",
   "version": "1.0.0",
   "description": "商化前端脚手架",
   "main": "index.js",
